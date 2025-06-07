@@ -1,9 +1,4 @@
 # COVID-19-Data-Analysis-Project
-Here’s a sample README file for your COVID-19 data analysis project:
-
----
-
-# COVID-19 Data Analysis Project
 
 ## Overview
 
@@ -119,4 +114,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Feel free to modify and expand the README as needed based on the specifics of your project or the intended audience.
